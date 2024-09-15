@@ -1,2 +1,2 @@
 # Echo-Learning
-Echo — 开源社区系统, 项目学习
+学习项目Echo的笔记， 感谢作者分享，链接 https://github.com/Veal98/Echo
